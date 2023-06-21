@@ -1,0 +1,2 @@
+a 2 0 2 2 0 6 c 3 3 2 2 f 7 1 1 <UNK> f <UNK> 9 <S>
+a 2 0 2 1 f f 6 <S> a 2 8 d <S> <S> a 2 0 2 c a
