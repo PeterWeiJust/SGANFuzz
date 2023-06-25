@@ -15,7 +15,14 @@ SGAN-Fuzz is a fuzzing tool that uses Generative Adversarial Networks (GANs) to 
 - Eclipse Mosquitto (for testing)
 
 ## Getting Started
-To use SGAN-Fuzz, first install the required dependencies and clone the repository. Next, configure the tool by setting the desired message sequence length, batch size, and other parameters. Finally, run the tool to generate MQTT message sequences, which can be used to test MQTT brokers and clients.
+To use SGAN-Fuzz, first install the required dependencies and clone the repository. Next, configure the tool by setting the desired message sequence length, batch size, and other parameters. 
+Running the following command for MQTT SeqGAN training:
+
+python train_seqgan.py
+
+Finally, run the tool to generate MQTT message sequences, which can be used to test MQTT brokers and clients.
+
+python send_payload.py
 
 For more detailed instructions and examples, see the [User Guide](user_guide.md) and [Examples](examples/) directory.
 
