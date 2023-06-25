@@ -14,6 +14,7 @@ SGAN-Fuzz is a fuzzing tool that uses Generative Adversarial Networks (GANs) to 
 - TensorFlow >= 2.0
 - Eclipse Mosquitto (for testing)
 - EMQX (for testing)
+- Windows/Linux os environment 
 
 ## Getting Started
 To use SGAN-Fuzz, first install the required dependencies and clone the repository. Next, configure the tool by setting the desired message sequence length, batch size, and other parameters. 
