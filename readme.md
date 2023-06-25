@@ -20,7 +20,7 @@ Running the following command for MQTT SeqGAN training:
 
 python train_seqgan.py
 
-Finally, run the tool to generate MQTT message sequences, which can be used to test MQTT brokers and clients.
+Finally, run the tool to generate MQTT message sequences, which can be used to test MQTT brokers and clients:
 
 python send_payload.py
 
