@@ -11,7 +11,7 @@ SGANFuzz is a fuzzing tool that uses Generative Adversarial Networks (GANs) to g
 
 ## Dependencies
 - Python >= 3.6
-- TensorFlow >= 2.0
+- TensorFlow >= 2.9
 - Eclipse Mosquitto (for testing)
 - EMQX (for testing)
 - Windows/Linux OS environment 
